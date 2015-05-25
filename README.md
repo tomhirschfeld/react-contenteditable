@@ -2,6 +2,8 @@ react-contenteditable
 =====================
 
 React component for a div with editable contents
+This fork is to make minor changes to get this component to play nice with webpack
+
 
 ## Usage
 ```javascript
